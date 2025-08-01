@@ -39,6 +39,19 @@ It is implemented with **Java**, **Selenium WebDriver**, **Cucumber**, and **JUn
 ---
 
 ## 📂 Project Structure
+src/
+ └── test/
+      ├── java/
+      │     ├── hooks/
+      │     │     └── hooksC.java
+      │     ├── runner/
+      │     │     └── TestRunner.java
+      │     └── stepsdefinitions/
+      │           └── MyStepdefs.java
+      └── resources/
+            └── features/
+                  └── search.feature
+
 
 
 ---
