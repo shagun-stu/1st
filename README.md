@@ -43,7 +43,7 @@ src
 
 ---
 
-## ✅ Features Covered
+## Features Covered
 
 - NHS job search using:
 - Keyword
@@ -55,6 +55,7 @@ src
 - Reference
 - Pay range
 - Contract type
+- Working pattern
 
 ---
 
